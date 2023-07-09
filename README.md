@@ -1,9 +1,7 @@
-![](https://komarev.com/ghpvc/?username=Rozrc25&color=blueviolet&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=Rozrc25&color=blue&style=for-the-badge)
 ### Hi there 👋
 
-**Rozrc25/Rozrc25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-👋 Hi, I’m Rohith Faizal.
+👋 I’m Rohith Faizal.
 
 👀 I’m interested in Web Development and App Development.
 
@@ -12,6 +10,10 @@
 💞️ I’m looking to collaborate on Java and React development.
 
 📫 You can mail me at rohithfaizal25@yahoo.com
+
+<a href="https://roz-about.vercel.app/" target="_blank">
+     <img src="https://img.shields.io/badge/Roz-About-FA2A55?style=for-the-badge&logo=Roz&logoColor=white" alt="page link">
+    </a>
 
 - Contact Me
   
